@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sound-mixer/static/css/main.073c9b0a.css",
-    "main.js": "/sound-mixer/static/js/main.c2ee2037.js",
+    "main.js": "/sound-mixer/static/js/main.c488a1cd.js",
     "static/js/787.94d663a2.chunk.js": "/sound-mixer/static/js/787.94d663a2.chunk.js",
     "static/media/logo.svg": "/sound-mixer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sound-mixer/index.html",
     "main.073c9b0a.css.map": "/sound-mixer/static/css/main.073c9b0a.css.map",
-    "main.c2ee2037.js.map": "/sound-mixer/static/js/main.c2ee2037.js.map",
+    "main.c488a1cd.js.map": "/sound-mixer/static/js/main.c488a1cd.js.map",
     "787.94d663a2.chunk.js.map": "/sound-mixer/static/js/787.94d663a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c2ee2037.js"
+    "static/js/main.c488a1cd.js"
   ]
 }
