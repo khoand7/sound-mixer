@@ -56,7 +56,6 @@ function App() {
   }
 
   useEffect(() => {
-    setSoundList(['./empty.wav']);
   }, []);
 
   return (
